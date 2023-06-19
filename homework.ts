@@ -11,7 +11,7 @@ let c = [true, false, false];
 // A: boolean[]
 
 let d = {age: number};
-// A: tuple
+// A: object
 
 let e = [3]
 // A: number[]
